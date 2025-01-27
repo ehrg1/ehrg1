@@ -47,7 +47,7 @@ Building a **Pharmacy App**
 
 [![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ehr.g?igsh=Zjd0amw3eTQwZm1s&utm_source=qr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rayan-altawijari-aa7188202)
-[![Email](https://img.shields.io/badge/Email-0078d4?style=flat-square&logo=gmail&logoColor=white)](mailto:riansaad23@gmain.com)
+[![Email](https://img.shields.io/badge/Email-0078d4?style=flat-square&logo=gmail&logoColor=white)](mailto:riansaad23@gmail.com)
 
 ## 🌱 I’m Currently Learning
 - **App Development** (Flutter, React Native)
