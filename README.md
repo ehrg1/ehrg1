@@ -54,8 +54,7 @@ Building a **Pharmacy App**
 - **Advanced Data Structures and Algorithms**
 
 ## 📈 GitHub Stats
-(https://github-readme-stats.vercel.app/api?username=ehrg1&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
+![ehrg1's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehrg1&show_icons=true&theme=radical)
 
 <!--
 **ehrg1/ehrg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
