@@ -26,7 +26,11 @@ I enjoy the challenge of turning ideas into functional applications that can mak
 <h2 align="center">🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ</h2>
 
 <p align="center">
-  <img alt="Tech stack animation" src="./skills-animation.gif" width="80%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./skills-animation.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="./skills-animation-light.gif" />
+    <img alt="Tech stack animation" src="./skills-animation.gif" width="55%" />
+  </picture>
 </p>
 
 <p align="center">
