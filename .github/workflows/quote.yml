@@ -1,0 +1,37 @@
+name: update thought of the day
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Refresh the quote card
+        run: python scripts/update_quote.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "ehrg1"
+          git config user.email "112791690+ehrg1@users.noreply.github.com"
+          if ! git diff --quiet -- README.md; then
+            git add README.md
+            git commit -m "chore: update thought of the day"
+            git push
+          else
+            echo "No change to commit."
+          fi
