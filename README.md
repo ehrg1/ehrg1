@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=200&section=header&text=Rayan%20Altwijri&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fresh%20Computer%20Science%20Graduate%20%7C%20AI%20%26%20ML%20%7C%20Computer%20Vision%20%7C%20Software%20Engineering&descAlignY=58&descSize=16" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:414868&height=200&section=header&text=Rayan%20Altwijri&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=AI%20%26amp%3B%20ML%20%7C%20Computer%20Vision%20%7C%20Software%20Engineering&descAlignY=60&descSize=16" alt="header banner" />
 </p>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Rayan!
@@ -7,16 +7,15 @@
 <p align="left">
 Fresh <b>Computer Science</b> graduate from <b>Qassim University</b>, focused on
 <b>AI &amp; Machine Learning</b>, <b>Computer Vision</b>, and <b>Software Engineering</b>.
-I love turning research-grade ideas into real, working products — from on-device
-deep-learning models to full applications.
+I enjoy the challenge of turning ideas into functional applications that can make a difference.
 </p>
 
-- 🎓 Computer Science graduate — Qassim University
-- 🤖 Building with **AI / ML**, **Computer Vision**, and **embedded** systems
-- 🧠 Comfortable across **Python, Java, C/C++, Dart & Flutter**
-- 🔭 Featured work: **AI VISION VIAD** — assistive smart glasses for the visually impaired
-- 🌍 Bilingual interfaces (English / العربية)
-- 💬 Ask me about computer vision, TensorFlow Lite, or Raspberry Pi projects
+- Computer Science graduate — Qassim University
+- Building with **AI / ML**, **Computer Vision**, and **embedded** systems
+- Comfortable across **Python, Java, C/C++, Dart & Flutter**
+- Featured work: **AI VISION VIAD** — assistive smart glasses for the visually impaired
+- Bilingual interfaces (English / العربية)
+- Ask me about computer vision, TensorFlow Lite, or Raspberry Pi projects
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ehrg1&label=Profile%20views&color=7aa2f7&style=for-the-badge&logo=star" alt="profile views" />
@@ -121,8 +120,6 @@ impaired users perceive their surroundings.
   <a href="https://x.com/Rian23T" target="_blank"><img src="./assets/social/x.png" width="50" height="50" alt="X (Twitter)" /></a>
 </p>
 
-<br/>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=120&section=footer" alt="footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:414868&height=120&section=footer" alt="footer banner" />
 </p>
