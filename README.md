@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20easiest%20way%20in%20the%20world%20to%20make%20enemies%20is%20to%20hire%20friends.&author=George%20Lorimer" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Anxiety%20is%20the%20dizziness%20of%20freedom.&author=Soren%20Kierkegaard" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
