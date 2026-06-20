@@ -25,24 +25,28 @@ I enjoy the challenge of turning ideas into functional applications that can mak
 
 <h2 align="center">🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ</h2>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./skills-animation.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="./skills-animation-light.gif" />
-    <img alt="Tech stack animation" src="./skills-animation.gif" width="55%" />
-  </picture>
-</p>
-
-<p align="center">
-  <b>Areas:</b>&nbsp; 🤖 AI &amp; Machine Learning &nbsp;•&nbsp; 👁️ Computer Vision &nbsp;•&nbsp; 💻 Software Engineering &nbsp;•&nbsp; 📟 Embedded / IoT
-</p>
-
-<h3 align="left">📚 Current Learning</h3>
-<ul align="left">
-  <li>Deep learning for vision — model optimization &amp; on-device inference (TensorFlow Lite).</li>
-  <li>Sensor fusion &amp; real-time systems on Raspberry Pi.</li>
-  <li>Production-grade software engineering &amp; clean architecture.</li>
-</ul>
+<table width="100%">
+  <tr>
+    <td width="45%" valign="middle" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./skills-animation.gif" />
+        <source media="(prefers-color-scheme: light)" srcset="./skills-animation-light.gif" />
+        <img alt="Tech stack animation" src="./skills-animation.gif" width="100%" />
+      </picture>
+    </td>
+    <td width="55%" valign="top" align="left">
+      <p>
+        <b>Areas:</b>&nbsp; 🤖 AI &amp; Machine Learning &nbsp;•&nbsp; 👁️ Computer Vision &nbsp;•&nbsp; 💻 Software Engineering &nbsp;•&nbsp; 📟 Embedded / IoT
+      </p>
+      <h3>📚 Current Learning</h3>
+      <ul>
+        <li>Deep learning for vision — model optimization &amp; on-device inference (TensorFlow Lite).</li>
+        <li>Sensor fusion &amp; real-time systems on Raspberry Pi.</li>
+        <li>Production-grade software engineering &amp; clean architecture.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
