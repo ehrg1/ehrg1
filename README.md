@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Anxiety%20is%20the%20dizziness%20of%20freedom.&author=Soren%20Kierkegaard" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20big%20secret%20in%20life%20is%20that%20there%20is%20no%20big%20secret.%20Whatever%20your%20goal%2C%20you%20can%20get%20there%20if%20you%27re%20willing%20to%20work.&author=Oprah%20Winfrey" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
