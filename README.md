@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Nothing%20ever%20goes%20away%20until%20it%20has%20taught%20us%20what%20we%20need%20to%20know.&author=Pema%20Chodron" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Sometimes%20you%20have%20to%20shut%20your%20eyes%2C%20so%20you%20can%20see%20the%20real%20beauty.&author=Kilian%20Jornet" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
