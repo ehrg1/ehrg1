@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Sometimes%20you%20have%20to%20shut%20your%20eyes%2C%20so%20you%20can%20see%20the%20real%20beauty.&author=Kilian%20Jornet" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Genius%20is%20the%20ability%20to%20act%20rightly%20without%20precedent%20-%20the%20power%20to%20do%20the%20right%20thing%20the%20first%20time.&author=Elbert%20Hubbard" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
