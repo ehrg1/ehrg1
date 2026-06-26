@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Don%27t%20be%20afraid%20to%20give%20up%20the%20good%20to%20go%20for%20the%20great.&author=John%20D.%20Rockefeller" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Whatever%20you%20are%2C%20be%20a%20good%20one.&author=Abraham%20Lincoln" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
