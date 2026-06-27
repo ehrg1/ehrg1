@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Whatever%20you%20are%2C%20be%20a%20good%20one.&author=Abraham%20Lincoln" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=There%20is%20nothing%20quite%20so%20tragic%20as%20a%20young%20cynic.&author=Maya%20Angelou" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
