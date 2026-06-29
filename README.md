@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Quality%20is%20not%20an%20act%2C%20it%20is%20a%20habit.&author=Aristotle" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=When%20things%20are%20a%20disappointment%2C%20try%20not%20to%20be%20so%20discouraged.&author=Carol%20Burnett" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
