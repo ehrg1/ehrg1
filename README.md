@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Life%20can%20be%20the%20scariest%20and%20most%20beautiful%20thing%20simultaneously.&author=Maxime%20Lagace" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Help%20others%20and%20give%20something%20back.&author=Arnold%20Schwarzenegger" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
