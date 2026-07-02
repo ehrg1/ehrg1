@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Help%20others%20and%20give%20something%20back.&author=Arnold%20Schwarzenegger" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Everything%20begins%20with%20an%20idea.&author=Earl%20Nightingale" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
