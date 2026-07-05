@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=In%20order%20to%20attain%20the%20impossible%2C%20one%20must%20attempt%20the%20absurd.&author=Miguel%20de%20Cervantes" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Throw%20your%20heart%20over%20the%20fence%20and%20the%20rest%20will%20follow&author=Norman%20Vincent%20Peale" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
