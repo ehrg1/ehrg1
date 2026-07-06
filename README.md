@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Throw%20your%20heart%20over%20the%20fence%20and%20the%20rest%20will%20follow&author=Norman%20Vincent%20Peale" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=When%20you%20are%20talented%20you%20do%20it%20whatever%20it%20is%20until%20your%20fingers%20bleed%20or%20your%20eyes%20are%20ready%20to%20fall%20out%20of%20your%20head.&author=Stephen%20King" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
