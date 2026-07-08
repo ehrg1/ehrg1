@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Being%20deeply%20loved%20by%20someone%20gives%20you%20strength%2C%20while%20loving%20someone%20deeply%20gives%20you%20courage.&author=Lao%20Tzu" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Patience%20is%20bitter%2C%20but%20its%20fruit%20is%20sweet.&author=Aristotle" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
