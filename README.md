@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Patience%20is%20bitter%2C%20but%20its%20fruit%20is%20sweet.&author=Aristotle" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Each%20time%20we%20don%27t%20say%20what%20we%20wanna%20say%2C%20we%27re%20dying.&author=Yoko%20Ono" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
