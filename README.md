@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Each%20time%20we%20don%27t%20say%20what%20we%20wanna%20say%2C%20we%27re%20dying.&author=Yoko%20Ono" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Integrity%20is%20the%20ability%20to%20stand%20by%20an%20idea.&author=Ayn%20Rand" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
