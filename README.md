@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Life%20is%20about%20not%20knowing%20and%20then%20doing%20something%20anyway.&author=Mark%20Manson" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=By%20seeking%20and%20blundering%20we%20learn.&author=Johann%20Wolfgang%20von%20Goethe" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
