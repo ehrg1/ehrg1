@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=No%20great%20discovery%20was%20ever%20made%20without%20a%20bold%20guess.&author=Isaac%20Newton" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Let%20us%20rather%20run%20the%20risk%20of%20wearing%20out%20than%20rusting%20out.&author=Theodore%20Roosevelt" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
