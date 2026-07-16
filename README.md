@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20truth%20is%20rarely%20pure%20and%20never%20simple.&author=Oscar%20Wilde" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=An%20un-examined%20life%20is%20not%20worth%20living.&author=Socrates" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
