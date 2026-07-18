@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=You%20will%20never%20do%20anything%20in%20this%20world%20without%20courage.%20It%20is%20the%20greatest%20quality%20of%20the%20mind%20next%20to%20honor.&author=James%20Allen" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20future%20is%20no%20more%20uncertain%20than%20the%20present.&author=Walt%20Whitman" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
