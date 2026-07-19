@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20future%20is%20no%20more%20uncertain%20than%20the%20present.&author=Walt%20Whitman" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=A%20memory%20is%20a%20beautiful%20thing%2C%20it%27s%20almost%20a%20desire%20that%20you%20miss.&author=Gustave%20Flaubert" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
