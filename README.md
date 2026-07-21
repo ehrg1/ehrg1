@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Life%20is%20a%20long%20lesson%20in%20humility.&author=James%20Matthew%20Barrie" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=I%20must%20also%20have%20a%20dark%20side%20if%20I%20am%20to%20be%20whole.&author=Carl%20Jung" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
