@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=I%20must%20also%20have%20a%20dark%20side%20if%20I%20am%20to%20be%20whole.&author=Carl%20Jung" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=You%27re%20only%20given%20a%20little%20spark%20of%20madness.%20You%20mustn%27t%20lose%20it.&author=Robin%20Williams" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
