@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=You%27re%20only%20given%20a%20little%20spark%20of%20madness.%20You%20mustn%27t%20lose%20it.&author=Robin%20Williams" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Do%20The%20Right%20Thing.%20It%20Will%20Gratify%20Some%20People%20And%20Astonish%20The%20Rest.&author=Mark%20Twain" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
