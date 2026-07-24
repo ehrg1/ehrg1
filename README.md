@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Do%20The%20Right%20Thing.%20It%20Will%20Gratify%20Some%20People%20And%20Astonish%20The%20Rest.&author=Mark%20Twain" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Out%20of%20suffering%20have%20emerged%20the%20strongest%20souls%3B%20the%20most%20massive%20characters%20are%20seared%20with%20scars.&author=Kahlil%20Gibran" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
