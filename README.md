@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20answer%20to%20anger%20is%20silence.&author=Marcus%20Aurelius" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=I%20can%20live%20without%20money%2C%20but%20I%20cannot%20live%20without%20love.&author=Judy%20Garland" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
