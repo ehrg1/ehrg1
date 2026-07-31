@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=If%20your%20mind%20is%20empty%2C%20it%20is%20always%20ready%20for%20anything%2C%20it%20is%20open%20to%20everything.&author=Shunryu%20Suzuki" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=No%20matter%20how%20smart%20we%20may%20think%20we%20are%2C%20no%20matter%20how%20committed%20we%20are%20to%20our%20truth%2C%20we%20can%20lose%20our%20way.&author=Kamal%20Ravikant" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
