@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=No%20matter%20how%20smart%20we%20may%20think%20we%20are%2C%20no%20matter%20how%20committed%20we%20are%20to%20our%20truth%2C%20we%20can%20lose%20our%20way.&author=Kamal%20Ravikant" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Unless%20someone%20truly%20has%20the%20power%20to%20say%20no%2C%20they%20never%20truly%20have%20the%20power%20to%20say%20yes.&author=Dan%20Millman" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
