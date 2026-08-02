@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Unless%20someone%20truly%20has%20the%20power%20to%20say%20no%2C%20they%20never%20truly%20have%20the%20power%20to%20say%20yes.&author=Dan%20Millman" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Only%20when%20you%20can%20be%20extremely%20pliable%20and%20soft%20can%20you%20be%20extremely%20hard%20and%20strong.&author=Zen%20Proverb" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
