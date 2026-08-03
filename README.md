@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Only%20when%20you%20can%20be%20extremely%20pliable%20and%20soft%20can%20you%20be%20extremely%20hard%20and%20strong.&author=Zen%20Proverb" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=You%20can%20live%20a%20whole%20life%20time%20never%20being%20awake.&author=Dan%20Millman" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
