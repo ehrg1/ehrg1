@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=You%20can%20live%20a%20whole%20life%20time%20never%20being%20awake.&author=Dan%20Millman" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=If%20the%20grass%20is%20greener%20on%20the%20other%20side%2C%20maybe%20that%27s%20because%20you%27re%20not%20taking%20good%20care%20of%20your%20grass.&author=Unknown" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
