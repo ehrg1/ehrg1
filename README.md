@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=If%20the%20grass%20is%20greener%20on%20the%20other%20side%2C%20maybe%20that%27s%20because%20you%27re%20not%20taking%20good%20care%20of%20your%20grass.&author=Unknown" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=A%20heart%20is%20not%20judged%20by%20how%20much%20you%20love%2C%20but%20by%20how%20much%20you%20are%20loved%20by%20others.&author=Judy%20Garland" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
