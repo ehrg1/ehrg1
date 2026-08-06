@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=A%20heart%20is%20not%20judged%20by%20how%20much%20you%20love%2C%20but%20by%20how%20much%20you%20are%20loved%20by%20others.&author=Judy%20Garland" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=In%20a%20world%20that%20is%20constantly%20changing%2C%20it%20is%20to%20our%20advantage%20to%20learn%20how%20to%20adapt%20and%20enjoy%20something%20better.&author=Spencer%20Johnson" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
