@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=You%20are%20a%20function%20of%20what%20the%20whole%20universe%20is%20doing%20in%20the%20same%20way%20that%20a%20wave%20is%20a%20function%20of%20what%20the%20whole%20ocean%20is%20doing.&author=Alan%20Watts" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Without%20the%20rain%20there%20would%20be%20no%20rainbow.&author=Gilbert%20Chesterton" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
