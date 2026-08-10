@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=We%20think%20too%20much%20and%20feel%20too%20little.&author=Charlie%20Chaplin" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=You%20have%20within%20you%20right%20now%2C%20everything%20you%20need%20to%20deal%20with%20whatever%20the%20world%20can%20throw%20at%20you.&author=Brian%20Tracy" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
