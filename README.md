@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20real%20art%20in%20learning%20takes%20place%20as%20we%20move%20beyond%20proficiency%2C%20when%20our%20work%20becomes%20an%20expression%20of%20our%20essence.&author=Josh%20Waitzkin" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Our%20thoughts%20are%20highly%20influenced%20by%20the%20people%20around%20us%20and%20everything%20we%20read%2C%20see%2C%20and%20do.&author=Jeff%20Booth" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
