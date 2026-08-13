@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Our%20thoughts%20are%20highly%20influenced%20by%20the%20people%20around%20us%20and%20everything%20we%20read%2C%20see%2C%20and%20do.&author=Jeff%20Booth" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=We%20can%20choose%20to%20look%20at%20whatever%20we%20want.%20%20We%20can%20look%20at%20what%27s%20wrong%20in%20our%20life%20or%20we%20can%20look%20at%20what%27s%20right.&author=Sonia%20Ricotti" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
