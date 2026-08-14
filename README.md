@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=We%20can%20choose%20to%20look%20at%20whatever%20we%20want.%20%20We%20can%20look%20at%20what%27s%20wrong%20in%20our%20life%20or%20we%20can%20look%20at%20what%27s%20right.&author=Sonia%20Ricotti" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Quality%20is%20not%20an%20act%2C%20it%20is%20a%20habit.&author=Colin%20R.%20Davis" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
