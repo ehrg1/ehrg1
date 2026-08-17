@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20most%20difficult%20thing%20is%20the%20decision%20to%20act%2C%20the%20rest%20is%20merely%20tenacity.%20The%20fears%20are%20paper%20tigers.&author=Amelia%20Earhart" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Where%20we%20fall%20are%20the%20stepping-stones%20for%20our%20journey.&author=Lolly%20Daskal" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
