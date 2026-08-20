@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Youth%20ages%2C%20immaturity%20is%20outgrown%2C%20ignorance%20can%20be%20educated%2C%20and%20drunkenness%20sobered%2C%20but%20stupid%20lasts%20forever.&author=Aristophanes" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=When%20a%20man%20is%20penalized%20for%20honesty%20he%20learns%20to%20lie.&author=Criss%20Jami" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
