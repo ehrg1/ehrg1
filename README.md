@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=When%20a%20man%20is%20penalized%20for%20honesty%20he%20learns%20to%20lie.&author=Criss%20Jami" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Life%20itself%20is%20the%20most%20wonderful%20fairy%20tale.&author=Hans%20Christian%20Andersen" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
