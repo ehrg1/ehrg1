@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Live%20your%20life%20as%20an%20exclamation%20rather%20than%20an%20explanation.&author=Isaac%20Newton" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=All%20things%20come%20into%20being%20by%20conflict%20of%20opposites.&author=Heraclitus" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
