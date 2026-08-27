@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=It%20is%20truth%20that%20liberates%2C%20not%20your%20effort%20to%20be%20free.&author=Jiddu%20Krishnamurti" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Great%20acts%20are%20made%20up%20of%20small%20deeds.&author=Lao%20Tzu" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
