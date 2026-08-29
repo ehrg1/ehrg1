@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20less%20you%20want%2C%20the%20richer%20you%20are.%20The%20more%20you%20need%20in%20order%20to%20be%20happy%2C%20the%20more%20miserable%20you%27ll%20be.&author=Yanni" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Confidence%20is%20consistency%20of%20thinking%20about%20what%20is%20possible%20and%20how%20to%20make%20it%20possible.&author=John%20Eliot" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
