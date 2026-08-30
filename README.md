@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Confidence%20is%20consistency%20of%20thinking%20about%20what%20is%20possible%20and%20how%20to%20make%20it%20possible.&author=John%20Eliot" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=It%27s%20the%20little%20things%20done%20consistently%20over%20time%2C%20straight%20from%20your%20heart%2C%20that%20have%20the%20greatest%20impact.&author=Unknown" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
