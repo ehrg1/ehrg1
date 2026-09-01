@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Loyalty%20and%20devotion%20lead%20to%20bravery.%20Bravery%20leads%20to%20the%20spirit%20of%20self-sacrifice.%20The%20spirit%20of%20self-sacrifice%20creates%20trust%20in%20the%20power%20of%20love.&author=Morihei%20Ueshiba" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Even%20the%20smallest%20person%20can%20change%20the%20course%20of%20the%20future.&author=J.R.R.%20Tolkien" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
