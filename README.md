@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Courage%20Is%20a%20Love%20Affair%20with%20the%20Unknown&author=Osho" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=We%20meet%20ourselves%20time%20and%20again%20in%20a%20thousand%20disguises%20on%20the%20path%20of%20life.&author=Carl%20Jung" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
