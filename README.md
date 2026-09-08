@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=We%20meet%20ourselves%20time%20and%20again%20in%20a%20thousand%20disguises%20on%20the%20path%20of%20life.&author=Carl%20Jung" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Before%20preparing%20to%20improve%20the%20world%2C%20first%20look%20around%20your%20own%20home%20three%20times.&author=Chinese%20Proverb" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
