@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Looking%20after%20my%20health%20today%20gives%20me%20a%20better%20hope%20for%20tomorrow.&author=Anne%20Wilson%20Schaef" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Work%20out%20your%20own%20salvation.%20Do%20not%20depend%20on%20others.&author=Buddha" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
