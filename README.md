@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=You%20are%20the%20only%20real%20obstacle%20in%20your%20path%20to%20a%20fulfilling%20life.&author=Les%20Brown" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=It%20is%20during%20our%20darkest%20moments%20that%20we%20must%20focus%20to%20see%20the%20light.&author=Aristotle" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
