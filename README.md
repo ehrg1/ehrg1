@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20only%20thing%20worse%20than%20being%20blind%20is%20having%20sight%20but%20no%20vision.&author=Helen%20Keller" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20wiser%20you%20get%2C%20the%20less%20you%20care%20to%20look%20like%20a%20fool.&author=Maxime%20Lagace" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
