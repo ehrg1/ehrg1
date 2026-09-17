@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20wiser%20you%20get%2C%20the%20less%20you%20care%20to%20look%20like%20a%20fool.&author=Maxime%20Lagace" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=God%20gave%20me%20this%20illness%20to%20remind%20me%20that%20I%27m%20not%20Number%20One%3B%20He%20is.&author=Muhammad%20Ali" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
