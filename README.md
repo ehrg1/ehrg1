@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=God%20gave%20me%20this%20illness%20to%20remind%20me%20that%20I%27m%20not%20Number%20One%3B%20He%20is.&author=Muhammad%20Ali" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Shoot%20for%20the%20moon%2C%20because%20even%20if%20you%20miss%2C%20you%27ll%20land%20among%20the%20stars.&author=Les%20Brown" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
