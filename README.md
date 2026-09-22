@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Shoot%20for%20the%20moon.%20Even%20if%20you%20miss%2C%20you%27ll%20land%20among%20the%20stars.&author=Norman%20Vincent%20Peale" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Night%20is%20a%20more%20quiet%20time%20to%20work.%20It%20aids%20thought.&author=Alexander%20Graham%20Bell" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
