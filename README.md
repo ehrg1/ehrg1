@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Night%20is%20a%20more%20quiet%20time%20to%20work.%20It%20aids%20thought.&author=Alexander%20Graham%20Bell" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Darkness%20cannot%20drive%20out%20darkness%3B%20only%20light%20can%20do%20that.%20Hate%20cannot%20drive%20out%20hate%3B%20only%20love%20can%20do%20that.&author=Martin%20Luther%20King%2C%20Jr." alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
