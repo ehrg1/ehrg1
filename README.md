@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Darkness%20cannot%20drive%20out%20darkness%3B%20only%20light%20can%20do%20that.%20Hate%20cannot%20drive%20out%20hate%3B%20only%20love%20can%20do%20that.&author=Martin%20Luther%20King%2C%20Jr." alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Life%20is%20like%20playing%20the%20violin%20in%20public%20and%20learning%20the%20instrument%20as%20one%20goes%20on.&author=Samuel%20Butler" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
