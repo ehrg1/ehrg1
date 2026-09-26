@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=No%20man%20is%20more%20cheated%20than%20the%20selfish%20man.&author=Henry%20Ward%20Beecher" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=He%20who%20permits%20himself%20to%20tell%20a%20lie%20once%2C%20finds%20it%20much%20easier%20to%20do%20it%20the%20second%20time.&author=Thomas%20Jefferson" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
