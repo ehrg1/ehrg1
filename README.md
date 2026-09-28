@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=In%20spite%20of%20everything%2C%20I%20shall%20rise%20again.&author=Vincent%20van%20Gogh" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=One%20who%20thinks%20and%20reflects%20develops%20his%20foresight%20and%20vision.&author=Ali%20ibn%20Abi%20Talib%20%28R.A%29" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
