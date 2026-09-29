@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=One%20who%20thinks%20and%20reflects%20develops%20his%20foresight%20and%20vision.&author=Ali%20ibn%20Abi%20Talib%20%28R.A%29" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20future%20belongs%20to%20those%20who%20learn%20more%20skills%20and%20combine%20them%20in%20creative%20ways.&author=Robert%20Greene" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
