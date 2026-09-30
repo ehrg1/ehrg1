@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20future%20belongs%20to%20those%20who%20learn%20more%20skills%20and%20combine%20them%20in%20creative%20ways.&author=Robert%20Greene" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=If%20you%20correct%20your%20mind%2C%20the%20rest%20of%20your%20life%20will%20fall%20into%20place.&author=Lao%20Tzu" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
