@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20middle%20path%20is%20the%20way%20to%20wisdom.&author=Rumi" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Wishing%20to%20be%20friends%20is%20quick%20work%2C%20but%20friendship%20is%20a%20slow%20ripening%20fruit.&author=Aristotle" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
