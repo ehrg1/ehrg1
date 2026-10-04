@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=To%20bear%20trials%20with%20a%20calm%20mind%20robs%20misfortune%20of%20its%20strength%20and%20burden.&author=Seneca" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Life%20does%20not%20get%20better%20by%20chance%2C%20it%20gets%20better%20by%20change.&author=Jim%20Rohn" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
