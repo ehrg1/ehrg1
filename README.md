@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Life%20does%20not%20get%20better%20by%20chance%2C%20it%20gets%20better%20by%20change.&author=Jim%20Rohn" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=When%20you%20dance%2C%20your%20purpose%20is%20not%20to%20get%20to%20a%20certain%20place%20on%20the%20floor.%20It%27s%20to%20enjoy%20each%20step%20along%20the%20way.&author=Wayne%20Dyer" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
