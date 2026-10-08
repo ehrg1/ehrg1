@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Remember%20where%20you%20came%20from%2C%20where%20you%27re%20going%2C%20and%20why%20you%20created%20this%20mess%20you%20got%20yourself%20into%20in%20the%20first%20place.&author=Richard%20Bach" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Until%20you%20change%20how%20you%20get%20things%20done%2C%20you%27ll%20never%20know%20what%20works%20best.&author=Roy%20T.%20Bennett" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
