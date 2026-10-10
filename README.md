@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=In%20peace%2C%20sons%20bury%20their%20fathers.%20In%20war%2C%20fathers%20bury%20their%20sons.&author=Herodotus" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=You%20become%20stronger%20with%20every%20problem%20you%20face%20and%20every%20obstacle%20you%20overcome.&author=Celestine%20Chua" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
