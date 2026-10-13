@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Don%27t%20be%20afraid%20of%20enemies%20who%20attack%20you.%20Be%20afraid%20of%20the%20friends%20who%20flatter%20you.&author=Dale%20Carnegie" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Be%20approximately%20right%20rather%20than%20exactly%20wrong.&author=John%20Tukey" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
