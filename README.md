@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Be%20approximately%20right%20rather%20than%20exactly%20wrong.&author=John%20Tukey" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Many%20answers%20to%20what%20you%20seek%20don%27t%20lie%20%27out%20there%27.%20If%20you%20look%20inwards%2C%20you%27ll%20find%20the%20answer%20has%20been%20in%20you%20all%20along.&author=Celestine%20Chua" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
