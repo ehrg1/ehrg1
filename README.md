@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=If%20you%20want%20to%20be%20successful%2C%20find%20someone%20who%20has%20achieved%20the%20results%20you%20want%20and%20copy%20what%20they%20do%20and%20you%27ll%20achieve%20the%20same%20results.&author=Tony%20Robbins" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Success%20is%20about%20creating%20value.&author=Candice%20Carpenter" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
