@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Success%20is%20about%20creating%20value.&author=Candice%20Carpenter" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=There%20is%20nothing%20like%20looking%20if%20you%20want%20to%20find%20something.&author=J.R.R.%20Tolkien" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
