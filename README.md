@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=There%20is%20nothing%20like%20looking%20if%20you%20want%20to%20find%20something.&author=J.R.R.%20Tolkien" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Being%20in%20a%20good%20frame%20of%20mind%20helps%20keep%20one%20in%20the%20picture%20of%20health.&author=Unknown" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
