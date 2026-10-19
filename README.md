@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Being%20in%20a%20good%20frame%20of%20mind%20helps%20keep%20one%20in%20the%20picture%20of%20health.&author=Unknown" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20hard%20path%20is%20often%20the%20right%20one.%20The%20river%20teaches%20more%20than%20the%20shore.&author=Maxime%20Lagace" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
