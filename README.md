@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20hard%20path%20is%20often%20the%20right%20one.%20The%20river%20teaches%20more%20than%20the%20shore.&author=Maxime%20Lagace" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20fear%20of%20death%20is%20more%20to%20be%20feared%2C%20than%20death%20itself.&author=Publilius%20Syrus" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
