@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Courage%20is%20fear%20that%20has%20said%20its%20prayers%20and%20decided%20to%20go%20forward%20anyway.&author=Joyce%20Meyer" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Actions%20are%20the%20seeds%20of%20fate.%20Deeds%20grow%20into%20destiny.&author=Harry%20S.%20Truman" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
