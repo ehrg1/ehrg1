@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Sorrow%20is%20how%20we%20learn%20to%20love.&author=Rita%20Mae%20Brown" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Don%27t%20seek%2C%20don%27t%20avoid%2C%20don%27t%20expect.%20Take%20what%20comes%20and%20be%20happy.&author=Maxime%20Lagace" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
