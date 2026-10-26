@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Don%27t%20seek%2C%20don%27t%20avoid%2C%20don%27t%20expect.%20Take%20what%20comes%20and%20be%20happy.&author=Maxime%20Lagace" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=When%20the%20root%20is%20strong%2C%20the%20fruit%20is%20sweet.&author=Bob%20Marley" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
