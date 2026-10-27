@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=When%20the%20root%20is%20strong%2C%20the%20fruit%20is%20sweet.&author=Bob%20Marley" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Change%20begets%20change.%20Nothing%20propagates%20so%20fast.&author=Charles%20Dickens" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
