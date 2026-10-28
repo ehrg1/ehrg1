@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Change%20begets%20change.%20Nothing%20propagates%20so%20fast.&author=Charles%20Dickens" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20great%20use%20of%20life%20is%20to%20spend%20it%20for%20something%20that%20will%20outlast%20it.&author=William%20James" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
