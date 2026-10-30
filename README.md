@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Help%20others%20achieve%20their%20dreams%20and%20you%20will%20achieve%20yours.&author=Les%20Brown" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20more%20I%20want%20to%20get%20something%20done%2C%20the%20less%20I%20call%20it%20work.&author=Richard%20Bach" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
