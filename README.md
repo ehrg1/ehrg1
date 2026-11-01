@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=All%20you%20need%20is%20passion.%20If%20you%20have%20a%20passion%20for%20something%2C%20you%27ll%20create%20the%20talent.&author=Yanni" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=A%20man%20sees%20in%20the%20world%20what%20he%20carries%20in%20his%20heart.&author=Johann%20Wolfgang%20von%20Goethe" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
