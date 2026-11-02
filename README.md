@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=A%20man%20sees%20in%20the%20world%20what%20he%20carries%20in%20his%20heart.&author=Johann%20Wolfgang%20von%20Goethe" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Guilt%20is%20perhaps%20the%20most%20painful%20companion%20of%20death.&author=Coco%20Chanel" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
