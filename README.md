@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=If%20you%20can%27t%20feed%20a%20hundred%20people%2C%20then%20feed%20just%20one.&author=Mother%20Teresa" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=We%27re%20kept%20from%20our%20goal%20not%20by%20obstacles%2C%20but%20by%20a%20clear%20path%20to%20a%20lesser%20goal.&author=Bhagavad%20Gita" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
