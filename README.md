@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Risk%20comes%20from%20not%20knowing%20what%20you%27re%20doing.&author=Warren%20Buffett" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Happiness%20is%20the%20meaning%20and%20the%20purpose%20of%20life%2C%20the%20whole%20aim%20and%20end%20of%20human%20existence.&author=Aristotle" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
