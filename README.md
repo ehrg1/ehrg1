@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Imagination%20means%20nothing%20without%20doing.&author=Charlie%20Chaplin" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=He%20who%20can%2C%20does.&author=George%20Bernard%20Shaw" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
