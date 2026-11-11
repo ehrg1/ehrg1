@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Do%20what%20you%20feel%20in%20your%20heart%20to%20be%20right%20-%20for%20you%27ll%20be%20criticized%20anyway.&author=Eleanor%20Roosevelt" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Teachers%20open%20the%20door.%20You%20enter%20by%20yourself.&author=Chinese%20Proverb" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
