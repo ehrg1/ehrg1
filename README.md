@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Teachers%20open%20the%20door.%20You%20enter%20by%20yourself.&author=Chinese%20Proverb" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20thing%20about%20smart%20people%20is%20that%20they%20seem%20like%20crazy%20people%20to%20dumb%20people.&author=Stephen%20Hawking" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
