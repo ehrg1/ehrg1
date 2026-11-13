@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20thing%20about%20smart%20people%20is%20that%20they%20seem%20like%20crazy%20people%20to%20dumb%20people.&author=Stephen%20Hawking" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Peace%20is%20not%20the%20absence%20of%20conflict%2C%20but%20the%20ability%20to%20cope%20with%20it.&author=Unknown" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
