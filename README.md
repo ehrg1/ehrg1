@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Peace%20is%20not%20the%20absence%20of%20conflict%2C%20but%20the%20ability%20to%20cope%20with%20it.&author=Unknown" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Change%20yourself%20and%20you%20have%20done%20your%20part%20in%20changing%20the%20world.&author=Paramahansa%20Yogananda" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
