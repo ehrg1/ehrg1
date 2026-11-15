@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Change%20yourself%20and%20you%20have%20done%20your%20part%20in%20changing%20the%20world.&author=Paramahansa%20Yogananda" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Never%20was%20anything%20great%20achieved%20without%20danger.&author=Niccolo%20Machiavelli" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
