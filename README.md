@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Strategy%20is%20a%20commodity%2C%20execution%20is%20an%20art.&author=Peter%20Drucker" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Only%20those%20who%20do%20nothing%20at%20all%20make%20no%20mistakes.&author=Unknown" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
