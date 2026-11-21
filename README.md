@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Keep%20your%20face%20to%20the%20sunshine%20and%20you%20cannot%20see%20the%20shadows.&author=Helen%20Keller" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Forgive%20yourself%20for%20your%20faults%20and%20your%20mistakes%20and%20move%20on.&author=Les%20Brown" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
