@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Forgive%20yourself%20for%20your%20faults%20and%20your%20mistakes%20and%20move%20on.&author=Les%20Brown" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Your%20setback%20is%20just%20a%20setup%20for%20a%20comeback.&author=Steve%20Harvey" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
