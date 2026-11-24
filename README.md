@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=You%20will%20have%20bad%20times%2C%20but%20they%20will%20always%20wake%20you%20up%20to%20the%20stuff%20you%20weren%27t%20paying%20attention%20to.&author=Robin%20Williams" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Falling%20down%20is%20not%20failure.%20Failure%20comes%20when%20you%20stay%20where%20you%20have%20fallen.&author=Socrates" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
