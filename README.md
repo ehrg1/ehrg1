@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Falling%20down%20is%20not%20failure.%20Failure%20comes%20when%20you%20stay%20where%20you%20have%20fallen.&author=Socrates" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20less%20of%20the%20World%2C%20the%20freer%20you%20live.&author=Umar%20ibn%20Al-Khatt%C4%81b%20%28R.A%29" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
