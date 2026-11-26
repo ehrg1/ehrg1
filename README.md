@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20less%20of%20the%20World%2C%20the%20freer%20you%20live.&author=Umar%20ibn%20Al-Khatt%C4%81b%20%28R.A%29" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Nothing%20makes%20a%20man%20broad-minded%20like%20adversity.&author=Will%20Rogers" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
