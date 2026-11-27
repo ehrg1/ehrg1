@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Nothing%20makes%20a%20man%20broad-minded%20like%20adversity.&author=Will%20Rogers" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Receive%20without%20pride%2C%20let%20go%20without%20attachment.&author=Marcus%20Aurelius" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
