@@ -112,7 +112,7 @@ impaired users perceive their surroundings.
 
 <!-- QUOTE:START — updated daily by .github/workflows/quote.yml (do not edit between the markers) -->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Receive%20without%20pride%2C%20let%20go%20without%20attachment.&author=Marcus%20Aurelius" alt="thought of the day" />
+  <img src="https://readme-daily-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=Don%27t%20let%20anyone%20define%20you.%20You%20define%20yourself.&author=Billie%20Jean%20King" alt="thought of the day" />
 </p>
 <!-- QUOTE:END -->
 
